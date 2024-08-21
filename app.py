@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 
-st.title("welcome to gemini chat")
+st.title("Welcome to Yu-gemini chat")
 
 genai.configure(api_key="AIzaSyDXDJ5BF8ndtOrX_VGsCBrL9k3LXYwOWU0") 
 
